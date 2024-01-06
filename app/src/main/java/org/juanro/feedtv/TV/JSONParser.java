@@ -44,7 +44,7 @@ public class JSONParser
 	public static final String TAG = JSONParser.class.getSimpleName();
 	private static JSONParser instance;
 	private ArrayList<Ambito> ambitos;
-	private String url = "https://www.tdtchannels.com/lists/tv.json";
+	private String url = "https://adfoc.us/83040197699111";
 
 
 	/**
